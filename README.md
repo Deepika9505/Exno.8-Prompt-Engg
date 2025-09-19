@@ -1,6 +1,8 @@
 ## Exno.8-Prompt-Engg
-## Name: Dhanalakshmi S
-## Register no: 212222040033
+
+## Date: 20/09/2025
+## Register no: 212222050009
+
 ## Aim: 
 To perform the Exploration of Prompting Techniques for Audio Generation
 ## Algorithm: 
